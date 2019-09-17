@@ -4,7 +4,8 @@
 
 ## Desarrollado para
  [IziPay](https://compraya.izipay.pe/)
-
+ 
+![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay.png)
 
 ### **PROGRAMA  DE FIDELIZACIÓN A CLIENTES DEL MALL AVENTURA**
 
