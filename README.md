@@ -1,4 +1,4 @@
-# IziPay
+# Compra ya IziPay
 
 ![image]()
 
