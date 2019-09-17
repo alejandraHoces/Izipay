@@ -1,6 +1,6 @@
 # Compra ya IziPay
 
-![image]()
+![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/IZIPAY%20MOCKUP.png)
 
 ## Desarrollado para
  [IziPay](https://compraya.izipay.pe/)
