@@ -28,7 +28,7 @@ Primer paso: técnicas de investigación
 - Análisis de la competencia:
 - Encuesta a profesionales del sector:
 - Arquetipos, mapa de empatía y customer journey:
-
+![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20test.png)
 ### Análisis de la plataforma actual
 - Análisis heurístico:
 - Entrevistas y tests de usuarios:
@@ -39,9 +39,8 @@ B) CTA: animación y anclaje.
 D) Una solución modular, escalable y transversal
 E) Formulario
 ### Herramientas
-- Sketch: wireframes.
-- Invision: prototipo interactivo.
-- Lookback: entrevistas y tests de usuarios.
+- Figma: wireframes.
+- Marvel App: prototipo interactivo.
 - Survio: encuestas.
 - Trello: planificación y organización.
 - Plantilla análisis heurístico Torres Burriel
