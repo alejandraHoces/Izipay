@@ -33,7 +33,6 @@ Primer paso: técnicas de investigación
 ### Análisis de la plataforma actual
 - Análisis heurístico:
 - Entrevistas y tests de usuarios:
-
 ![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
 ### Prototipo y solución
 A) Arquitectura de la información y sistemas de navegación
