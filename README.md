@@ -28,11 +28,12 @@ Primer paso: técnicas de investigación
 - Análisis de la competencia:
 - Encuesta a profesionales del sector:
 - Arquetipos, mapa de empatía y customer journey:
-![image](https://ibb.co/0Q96hhC)
 
+![image](https://github.com/alejandraHoces/Izipay/blob/master/test.png?raw=true)
 ### Análisis de la plataforma actual
 - Análisis heurístico:
 - Entrevistas y tests de usuarios:
+
 ![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
 ### Prototipo y solución
 A) Arquitectura de la información y sistemas de navegación
