@@ -34,7 +34,6 @@ Primer paso: técnicas de investigación
 - **Entrevistas y tests de usuarios:** Realizamos este ejercicio con dueños de Mypes y comerciantes ya que coincidían con nuestro público objetivo.Intentamos identificar las carencias y fortalezas de la web actual y aprovechamos para preguntarles sobre sus necesidades a la hora de realizar este tipo de acciones.Los resultados fueron muy interesantes ya que pudimos confirmar algunas hipótesis y replantearnos otras (por ejemplo, que se le mencione de forma clara "en soles" cuanto de comicion se le iva a cobrar por utilizar el POS izipay en cada compra realizada).
 ![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
 ### Prototipo y solución
->
 A) Arquitectura de la información y sistemas de navegación : 
 B) Diseño Intuitivo :
 C) Informacion a tiempo real :
@@ -44,4 +43,3 @@ D) Formulario :
 - Marvel App: prototipo interactivo.
 - Survio: encuestas.
 - Trello: planificación y organización.
-- Plantilla análisis heurístico JAKOB NIELSEN
