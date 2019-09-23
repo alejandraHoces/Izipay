@@ -24,7 +24,7 @@ Entre otros, estos eran algunos de los requerimientos del briefing:
 
 Primer paso: técnicas de investigación
 
-- **Análisis de mercado:** Entender el negocio de Izipay y su ecosistema poniendo el foco en foros, estudios sectoriales, redes sociales, keywords más utilizadas, etc. Identificamos insights valiosos como, por ejemplo: su mercado principal son las mypes y su ventaja mas grande es la “interoperabilidad total”.
+- **Análisis de mercado:** Entender el negocio de Izipay y su ecosistema poniendo el foco en foros, estudios sectoriales, redes sociales, keywords más utilizadas, etc. Identificamos insights valiosos como, por ejemplo: su mercado principal son las mypes, sus medios de compra son mediante la plataforma ecommerce o central de ventas telefonica y su ventaja mas grande es la “interoperabilidad total”.
 - **Análisis de la competencia:** Desde dos perspectivas. Por un lado, investigamos los distintos modelos de negocio de sus principales competidores. Por otro, intentamos identificar buenas prácticas en sus plataformas digitales. En ese sentido, prestamos especial atención a elementos como los sistemas de navegación, arquitectura de la información, formularios y buscadores, además de reflexionar sobre cómo trataban de generar confianza y presentar sus valores corporativos.
 > Principales competidores: Pocket POS, Wally POS, VendeMás.
 
@@ -50,7 +50,8 @@ Proponemos modificar la navegación principal:
 - Añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
 
 **C) Formulario**  
-Dado que en la web de Izipay se puede realizar una transacción sin contacto con un asesor, el formulario de compre es un punto determinante de la plataforma.
+Dado que en la plataforma se puede realizar una transacción sin contacto con un asesor, el formulario de compra es un punto determinante de la plataforma.
+Por eso realizamos algunos cambios :
 - Eliminar campos no obligatorios.
 - Guía de paso a paso en el registro de la compra.
 - Pasar de 2 a 1 columnas para una mejor visualización del usuario.
