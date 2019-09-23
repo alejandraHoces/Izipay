@@ -14,7 +14,7 @@ Entre otros, estos eran algunos de los requerimientos del briefing:
 
 - Aumentar las **ventas online 30%** en un periodo máximo de 6 meses.
 - Reducir el **bounce rate.**
-- Mejorar **los formularios.**
+- Mejorar **los formularios de compra.**
 - Mejorar **user experience.**
 - Mejorar **la navegación y estructura web.**
 
@@ -50,7 +50,7 @@ Proponemos modificar la navegación principal:
 - Añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
 
 **C) Formulario**  
-Dado que en la plataforma se puede realizar una transacción sin contacto con un asesor, el formulario de compra es un punto determinante de la plataforma.
+Dado que en la plataforma se puede realizar una transacción sin contacto con un asesor, el formulario de compra es un punto determinante de la plataforma.  
 Por eso realizamos algunos cambios :
 - Eliminar campos no obligatorios.
 - Guía de paso a paso en el registro de la compra.
