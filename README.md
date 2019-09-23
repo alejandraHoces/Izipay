@@ -35,12 +35,9 @@ Primer paso: técnicas de investigación
 
 ### Prototipo y solución
 ![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
-
+[Diseño anterior](https://marvelapp.com/1i7h59hg) [Después del rediseño](https://marvelapp.com/aa7b7jb)
 **A) Arquitectura de la información y sistemas de navegación** 
-Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. En la primera imagen vemos la navegación actual y en la segunda nuestra propuesta.
-
-![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/menu%20comparativo.png)
-
+Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. 
 Proponemos modificar la navegación principal:
 - Añadimos la sección calcular comisión para reforzar la información a tiempo real que obtiene el cliente sobre la comisión que se le descontara al usar el POS IziPay.
 - La sección Preguntas frecuentes está pensada como punto único de acceso en el que el visitante pueda encontrar respuestas a las dudas e inquietudes que se les presente sobre los productos IziPay.  
@@ -53,7 +50,7 @@ Proponemos modificar la navegación principal:
 - Se añadió una calculadora de comisiones pensando en la necesidad que tienen los comerciantes de saber a tiempo real cuanto se le descontara al realizar una venta con el POS IziPay.  
 
 **D) Formulario**
-Dado que en el ecommerce de Izipay se puede realizar una compra sin contacto con un asesor, el formulario es un punto determinante de la plataforma. Aquí el antes (1) y el después (2) y las propuestas funcionales de mejora:
+Dado que en el ecommerce de Izipay se puede realizar una compra sin contacto con un asesor, el formulario es un punto determinante de la plataforma.
 - Eliminar campos no obligatorios.
 - Guía de paso a paso en el registro de la compra.
 - Pasar de 2 a 1 columnas para una mejor visualización del usuario.
@@ -63,5 +60,4 @@ Dado que en el ecommerce de Izipay se puede realizar una compra sin contacto con
 ### Herramientas
 - Figma: wireframes.
 - Marvel App: prototipo interactivo.
-- Survio: encuestas.
 - Trello: planificación y organización.
