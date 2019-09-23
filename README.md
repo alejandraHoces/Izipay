@@ -34,8 +34,11 @@ Primer paso: técnicas de investigación
 - **Entrevistas y tests de usuarios:** Realizamos este ejercicio con dueños de Mypes y comerciantes ya que coincidían con nuestro público objetivo. Intentamos identificar las carencias y fortalezas de la web actual y aprovechamos para preguntarles sobre sus necesidades a la hora de realizar este tipo de acciones. Los resultados fueron muy interesantes ya que pudimos confirmar algunas hipótesis y replantearnos otras (por ejemplo, que se le mencione de forma clara "en soles" cuanto de comisión se le va a cobrar por utilizar el POS izipay en cada compra realizada).
 
 ### Prototipo y solución
-![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
-[Diseño anterior](https://marvelapp.com/1i7h59hg) [Después del rediseño](https://marvelapp.com/aa7b7jb)
+![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)  
+
+[Diseño anterior](https://marvelapp.com/1i7h59hg)  
+[Después del rediseño](https://marvelapp.com/aa7b7jb)  
+
 **A) Arquitectura de la información y sistemas de navegación** 
 Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. 
 Proponemos modificar la navegación principal:
