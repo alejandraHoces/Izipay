@@ -36,12 +36,21 @@ Primer paso: técnicas de investigación
 ### Prototipo y solución
 ![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
 
-A) Arquitectura de la información y sistemas de navegación :
-B) Diseño Intuitivo : 
-C) Informacion a tiempo real : 
-D) Formulario : 
+A) Arquitectura de la información y sistemas de navegación : Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. En la primera imagen vemos la navegación actual y en la segunda nuestra propuesta.
+Proponemos modificar la navegación principal:
+- Añadimos la sección **calcular comicion** para reforzar la informacion a tiempo real que obtiene el cliente sobre la comicion que se le descontara al usar el POS IziPay.
+- La sección **Preguntas frecuentes** está pensada como punto único de acceso en el que el visitante pueda encontrar respuestas a las dudas e inquietudes que se les presente sobre los productos IziPay.
+B) Diseño Intuitivo : Resaltamos los beneficios principales de los productos al inicio del ecomerce, tambien añadimos caracteristicas e informacion relevante que ayuda al usuario a tomar una decision de compra.
+C) Informacion a tiempo real : Se añadio una calculadora de comiciones pensando en la necesidad que tienen los comerciantes de saber a tiempo real cuanto se le descontara al realizar una venta con el POS IziPay. 
+D) Formulario : Dado que en el ecommerce de Izipay se puede ralizar una compra sin contacto con un asesor, el formulario es un punto determinante de la plataforma. Aquí el antes (1) y el después (2) y las propuestas funcionales de mejora:
+- Eliminar campos no obligatorios.
+- Guia de paso a paso en el registro de la compra.
+- Pasar de 2 a 1 columnas para una mejor visualización del usuario.
+- Contador de productos a comprar.
+- Registros de comprobantes de pago, boleta o factura .
 ### Herramientas
 - Figma: wireframes.
 - Marvel App: prototipo interactivo.
 - Survio: encuestas.
 - Trello: planificación y organización.
+- Maze : prueba del prototipo Online.
