@@ -39,7 +39,7 @@ Primer paso: técnicas de investigación
 [Diseño anterior](https://marvelapp.com/1i7h59hg)  
 [Después del rediseño](https://marvelapp.com/aa7b7jb)  
 
-**A) Arquitectura de la información e información a tiempo real** 
+**A) Arquitectura de la información e información a tiempo real**  
 Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. 
 Proponemos modificar la navegación principal:
 - Añadimos la sección calcular comisión para reforzar la información a tiempo real que obtiene el cliente sobre la comisión que se le descontara al usar el POS IziPay.
@@ -49,7 +49,7 @@ Proponemos modificar la navegación principal:
 - Resaltamos los beneficios principales de los productos al inicio del ecommerce.
 - Añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
 
-**C) Formulario**
+**C) Formulario**  
 Dado que en la web de Izipay se puede realizar una transacción sin contacto con un asesor, el formulario de compre es un punto determinante de la plataforma.
 - Eliminar campos no obligatorios.
 - Guía de paso a paso en el registro de la compra.
