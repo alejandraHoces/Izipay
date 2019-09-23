@@ -40,8 +40,11 @@ Primer paso: técnicas de investigación
 Proponemos modificar la navegación principal:
 - Añadimos la sección calcular comisión para reforzar la información a tiempo real que obtiene el cliente sobre la comisión que se le descontara al usar el POS IziPay.
 - La sección Preguntas frecuentes está pensada como punto único de acceso en el que el visitante pueda encontrar respuestas a las dudas e inquietudes que se les presente sobre los productos IziPay.  
-**B) Diseño Intuitivo :** Resaltamos los beneficios principales de los productos al inicio del ecommerce, también añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
-**C) Información a tiempo real :** Se añadió una calculadora de comisiones pensando en la necesidad que tienen los comerciantes de saber a tiempo real cuanto se le descontara al realizar una venta con el POS IziPay.  
+**B) Diseño Intuitivo :** 
+- Resaltamos los beneficios principales de los productos al inicio del ecommerce.
+- Añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
+**C) Información a tiempo real :** 
+- Se añadió una calculadora de comisiones pensando en la necesidad que tienen los comerciantes de saber a tiempo real cuanto se le descontara al realizar una venta con el POS IziPay.  
 **D) Formulario :** Dado que en el ecommerce de Izipay se puede realizar una compra sin contacto con un asesor, el formulario es un punto determinante de la plataforma. Aquí el antes (1) y el después (2) y las propuestas funcionales de mejora:
 - Eliminar campos no obligatorios.
 - Guía de paso a paso en el registro de la compra.
@@ -54,4 +57,3 @@ Proponemos modificar la navegación principal:
 - Marvel App: prototipo interactivo.
 - Survio: encuestas.
 - Trello: planificación y organización.
-- Maze : prueba del prototipo Online.
