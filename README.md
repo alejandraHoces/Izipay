@@ -31,23 +31,24 @@ Primer paso: técnicas de investigación
 ### Análisis de la plataforma actual
 ![image](https://github.com/alejandraHoces/Izipay/blob/master/test.png?raw=true)
 - **Análisis heurístico:** Con un 4,3 sobre 10 de nota total, el margen de mejora era considerable, especialmente en áreas como la adaptación responsive, layout visual, usabilidad de los formularios, distribución de espacios, uso poco inspiracional de imágenes.
-- **Entrevistas y tests de usuarios:** Realizamos este ejercicio con dueños de Mypes y comerciantes ya que coincidían con nuestro público objetivo.Intentamos identificar las carencias y fortalezas de la web actual y aprovechamos para preguntarles sobre sus necesidades a la hora de realizar este tipo de acciones.Los resultados fueron muy interesantes ya que pudimos confirmar algunas hipótesis y replantearnos otras (por ejemplo, que se le mencione de forma clara "en soles" cuanto de comicion se le iva a cobrar por utilizar el POS izipay en cada compra realizada).
+- **Entrevistas y tests de usuarios:** Realizamos este ejercicio con dueños de Mypes y comerciantes ya que coincidían con nuestro público objetivo. Intentamos identificar las carencias y fortalezas de la web actual y aprovechamos para preguntarles sobre sus necesidades a la hora de realizar este tipo de acciones. Los resultados fueron muy interesantes ya que pudimos confirmar algunas hipótesis y replantearnos otras (por ejemplo, que se le mencione de forma clara "en soles" cuanto de comisión se le va a cobrar por utilizar el POS izipay en cada compra realizada).
 
 ### Prototipo y solución
 ![image](https://raw.githubusercontent.com/alejandraHoces/Izipay/master/izipay%20comparativo.png)
 
-A) Arquitectura de la información y sistemas de navegación : Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. En la primera imagen vemos la navegación actual y en la segunda nuestra propuesta.
+**A) Arquitectura de la información y sistemas de navegación :** Tras nuestro análisis e investigación, llegamos a la conclusión que podríamos mejorar la experiencia de los usuarios y la conversión modificando la navegación y AI. En la primera imagen vemos la navegación actual y en la segunda nuestra propuesta.
 Proponemos modificar la navegación principal:
-- Añadimos la sección **calcular comicion** para reforzar la informacion a tiempo real que obtiene el cliente sobre la comicion que se le descontara al usar el POS IziPay.
-- La sección **Preguntas frecuentes** está pensada como punto único de acceso en el que el visitante pueda encontrar respuestas a las dudas e inquietudes que se les presente sobre los productos IziPay.
-B) Diseño Intuitivo : Resaltamos los beneficios principales de los productos al inicio del ecomerce, tambien añadimos caracteristicas e informacion relevante que ayuda al usuario a tomar una decision de compra.
-C) Informacion a tiempo real : Se añadio una calculadora de comiciones pensando en la necesidad que tienen los comerciantes de saber a tiempo real cuanto se le descontara al realizar una venta con el POS IziPay. 
-D) Formulario : Dado que en el ecommerce de Izipay se puede ralizar una compra sin contacto con un asesor, el formulario es un punto determinante de la plataforma. Aquí el antes (1) y el después (2) y las propuestas funcionales de mejora:
+- Añadimos la sección calcular comisión para reforzar la información a tiempo real que obtiene el cliente sobre la comisión que se le descontara al usar el POS IziPay.
+- La sección Preguntas frecuentes está pensada como punto único de acceso en el que el visitante pueda encontrar respuestas a las dudas e inquietudes que se les presente sobre los productos IziPay.  
+**B) Diseño Intuitivo :** Resaltamos los beneficios principales de los productos al inicio del ecommerce, también añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
+**C) Información a tiempo real :** Se añadió una calculadora de comisiones pensando en la necesidad que tienen los comerciantes de saber a tiempo real cuanto se le descontara al realizar una venta con el POS IziPay.  
+**D) Formulario :** Dado que en el ecommerce de Izipay se puede realizar una compra sin contacto con un asesor, el formulario es un punto determinante de la plataforma. Aquí el antes (1) y el después (2) y las propuestas funcionales de mejora:
 - Eliminar campos no obligatorios.
-- Guia de paso a paso en el registro de la compra.
+- Guía de paso a paso en el registro de la compra.
 - Pasar de 2 a 1 columnas para una mejor visualización del usuario.
 - Contador de productos a comprar.
-- Registros de comprobantes de pago, boleta o factura .
+- Registros de comprobantes de pago, boleta o factura.
+
 ### Herramientas
 - Figma: wireframes.
 - Marvel App: prototipo interactivo.
