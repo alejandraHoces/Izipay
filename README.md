@@ -1,4 +1,4 @@
-# Compra ya IziPay
+# Compra ya IziPay - Ecommerce
 
 **Izipay**, es una empresa peruana que te ofrece equipos POS, estas aceptan todas las tarjetas de crédito, débito y de alimentos emitidas en el Perú y el extranjero.
 Esta tecnología creada por la empresa del mismo nombre, cuenta con el respaldo de Scotiabank e Interbank y permite que los pequeños comerciantes, que no cuentan con métodos de pagos electrónicos, incrementen sus ventas.
