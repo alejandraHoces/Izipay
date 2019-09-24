@@ -50,7 +50,7 @@ Proponemos modificar la navegación principal:
 - Añadimos características e información relevante que ayuda al usuario a tomar una decisión de compra.  
 
 **C) Formulario**  
-Dado que en la plataforma de Izi Pay se puede realizar una transacción sin contacto con un asesor, el formulario de compra es un punto determinante para cumplir el objetivo de la empresa.  
+Dado que en la plataforma de Izi Pay se puede realizar una transacción sin contacto con un asesor, el formulario de compra es un punto determinante para cumplir el objetivo comercial.  
 Por eso realizamos algunos cambios:
 - Eliminar campos no obligatorios.
 - Guía de paso a paso en el registro de la compra.
